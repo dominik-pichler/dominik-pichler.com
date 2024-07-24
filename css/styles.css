@@ -4925,7 +4925,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 a.badge-black:hover, a.badge-black:focus {
   color: #fff;
-  background-color: black;
+  background-color: rgb(47, 59, 76);
 }
 a.badge-black:focus, a.badge-black.focus {
   outline: 0;
@@ -5074,7 +5074,7 @@ a.badge-black:focus, a.badge-black.focus {
 }
 
 .alert-black {
-  color: black;
+  color: rgb(47, 59, 76);
   background-color: #cccccc;
   border-color: #b8b8b8;
 }

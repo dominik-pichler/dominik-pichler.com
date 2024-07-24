@@ -348,7 +348,7 @@ html, body {
     line-height: 36px;
     letter-spacing: 0em;
     text-align: left;
-    color: gray;
+    color: rgb(47, 59, 76);
 }
 
 .masthead_content {
@@ -429,7 +429,7 @@ section {
 
 .contact-text > h2 {
     text-transform: uppercase;
-    color: gray;
+    color: rgb(47, 59, 76);
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -448,7 +448,7 @@ section {
     line-height: 26px;
     display: flex;
     align-items: center;
-    color: gray;
+    color: rgb(47, 59, 76);
 }
 
 .contact-list > li {
@@ -504,7 +504,7 @@ section {
     font-size: 40px;
     line-height: 50px;
     margin: 0;
-    color: gray;
+    color: rgb(47, 59, 76);
 
 }
 
@@ -646,11 +646,11 @@ section {
      width: 100%;
      height: 100%;
      pointer-events: none;
-     border-bottom: 1px solid black;
+     border-bottom: 1px solid rgb(47, 59, 76);
  }
 
 .contact-form-inner {
-    color: gray;
+    color: rgb(47, 59, 76);
 }
 
 .contact-form-personal .label_name::after {

@@ -117,8 +117,7 @@ if (isset($_POST['submit'])) {
                     I simply love to model and code beautiful things, and am therefore always looking for new
                     challenges.
                     <br><br>
-                    Whenever I’m not working on new projects, you can find me outdoors, climbing mountains and chasing
-                    sunsets.
+                    If you want to ...., feel free to contact me!
                 </p>
             </div>
         </div>
@@ -132,7 +131,7 @@ if (isset($_POST['submit'])) {
 <!-- Projects-->
 <section class="projects-section bg-main project-heading" id="projects">
     <div class="container box_underline">
-        <h2 class="heading_work">WHAT I DO</h2>
+        <h2 class="heading_work">WHAT I DO BEST</h2>
     </div>
 </section>
 
@@ -348,21 +347,21 @@ if (isset($_POST['submit'])) {
                     <i class=""></i>
                     <li>
                         <i class="fab fa-github favicon_contact"></i>
-                        <a target="_blank" style="color: gray" href="https://github.com/dominik-pichler">
+                        <a target="_blank" style="color: rgb(47, 59, 76)" href="https://github.com/dominik-pichler">
                             Github: @dominik-pichler
                         </a>
                     </li>
                     <li>
                         <i class="fab fa-linkedin-in favicon_contact">
                         </i>
-                        <a target="_blank" style="color: gray"
+                        <a target="_blank" style="color: rgb(47, 59, 76)"
                            href="https://linkedin.com/in/dominik-pichler-811827135/">LinkedIn: Dominik Pichler
                         </a>
                     </li>
                     <li>
                         <i class="fab fa-linkedin-in favicon_contact">
                         </i>
-                        <a target="_blank" style="color: gray"
+                        <a target="_blank" style="color: rgb(47, 59, 76)"
                            href="mailto:info@dominik-pichler.com">
                             <bold style="font-weight: bold;"> Mail:</bold>
                             info[at]dominik-pichler[dot]com

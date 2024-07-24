@@ -2464,7 +2464,7 @@ body {
     #mainNav .nav-link {
         transition: none;
         padding: 2rem 1.5rem;
-        color: gray;
+        color: rgb(47, 59, 76);
     }
 
     #mainNav .nav-link:hover {
@@ -2531,7 +2531,7 @@ body {
     font-size: 2rem;
     line-height: 2rem;
     letter-spacing: .8rem;
-    color: gray
+    color: rgb(47, 59, 76)
 
 }
 
