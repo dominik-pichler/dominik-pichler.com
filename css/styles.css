@@ -10188,9 +10188,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #0D122E
-
-;
+  background-color: #FFFFFF;
   color: white;
 }
 #mainNav .navbar-toggler {
@@ -10209,7 +10207,7 @@ body {
   font-weight: 300;
 }
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(#fff, 80%);
+  color: fade(#ffffff, 80%);
   outline: none;
   background-color: transparent;
 }
@@ -10235,7 +10233,7 @@ body {
     color: rgba(255, 255, 255, 1);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: #FFFFFF;
   }
   #mainNav .nav-link:active {
     color: #fff;
@@ -10303,7 +10301,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
-  background-color: #0D122E
+  background-color: #ffffff
 
 ;
 }
@@ -10347,7 +10345,7 @@ body {
   padding-top: 10rem;
   /* background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%); */
 
-  background: linear-gradient(to bottom, rgba(13,18,46,1) 0%, rgba(0,0,0,0.9) 100%);
+  background: linear-gradient(to bottom, #FFFFFF 0%, rgba(0,0,0,0.9) 100%);
 
 
 }
@@ -10406,7 +10404,7 @@ body {
 
 .contact-section {
   padding-top: 5rem;
-  background-color: rgba(13,18,46,1);
+  background-color: #FFFFFF;
 }
 
 .contact-section .card {
@@ -10450,7 +10448,7 @@ body {
 
 .footer {
   padding: 5rem 0;
-  background-color: rgba(13,18,46,1);
+  background-color: #FFFFFF;
 }
 
 

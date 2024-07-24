@@ -2415,7 +2415,7 @@ body {
 
 #mainNav {
     min-height: 3.5rem;
-    background-color: #0d122e;
+    background-color: #FFFFFF;
     color: #fff
 }
 
@@ -2464,7 +2464,7 @@ body {
     #mainNav .nav-link {
         transition: none;
         padding: 2rem 1.5rem;
-        color: rgba(255, 255, 255, 1)
+        color: gray;
     }
 
     #mainNav .nav-link:hover {
@@ -2524,14 +2524,15 @@ body {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    background-color: #0d122e
+    background-color: #FFFFFF;
 }
 
 .masthead h1 {
     font-size: 2rem;
     line-height: 2rem;
     letter-spacing: .8rem;
-    color: #fff
+    color: gray
+
 }
 
 .masthead h2 {
@@ -2603,7 +2604,7 @@ body {
 
 .contact-section {
     padding-top: 5rem;
-    background-color: rgba(13, 18, 46, 1)
+    background-color: #FFFFFF;
 }
 
 .contact-section .social {
@@ -2630,7 +2631,7 @@ body {
 
 .footer {
     padding: 5rem 0;
-    background-color: rgba(13, 18, 46, 1)
+    background-color: #FFFFFF;
 }
 
 .my-path {

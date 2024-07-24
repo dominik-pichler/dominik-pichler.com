@@ -9,7 +9,6 @@ html, body {
 }
 
 
-
 /* --  Logo SVG--*/
 
 #logo {
@@ -349,7 +348,7 @@ html, body {
     line-height: 36px;
     letter-spacing: 0em;
     text-align: left;
-    color: white;
+    color: gray;
 }
 
 .masthead_content {
@@ -357,7 +356,7 @@ html, body {
 }
 
 .flexbox-contact {
-    background-color: #0D122E;
+    background-color: #ffffff;
     height: 100%;
     padding: 50px 0px;
 }
@@ -369,7 +368,7 @@ html, body {
 
 }
 section {
-    background-color:#0D122E ;
+    background-color:#ffffff ;
 }
 
 
@@ -430,7 +429,7 @@ section {
 
 .contact-text > h2 {
     text-transform: uppercase;
-    color: white;
+    color: gray;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -449,7 +448,7 @@ section {
     line-height: 26px;
     display: flex;
     align-items: center;
-    color: white;
+    color: gray;
 }
 
 .contact-list > li {
@@ -505,7 +504,7 @@ section {
     font-size: 40px;
     line-height: 50px;
     margin: 0;
-    color: #ffffff;
+    color: gray;
 
 }
 
@@ -582,7 +581,7 @@ section {
 }
 
 .bg-main {
-    background-color: rgba(13,18,46,1);
+    background-color: #FFFFFF;
 }
 
 
@@ -608,6 +607,7 @@ section {
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .contact-details {
@@ -649,7 +649,9 @@ section {
      border-bottom: 1px solid black;
  }
 
-
+.contact-form-inner {
+    color: gray;
+}
 
 .contact-form-personal .label_name::after {
     content: "";
@@ -733,3 +735,17 @@ section {
 }
 
 
+
+/* Client grid */
+.client_grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px; /* Adjust this value for more or less padding */
+    padding: 20px; /* Optional padding for the entire grid */
+}
+.client_grid-item {
+    /* Add any additional styling for SVG elements here */
+    width: 100%;
+    height: auto;
+}
