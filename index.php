@@ -57,7 +57,7 @@ if (isset($_POST['submit'])) {
 
 
                 <!--  <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li> -->
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Work</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Work with me</a></li>
 
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
             </ul>
@@ -117,7 +117,7 @@ if (isset($_POST['submit'])) {
                     I simply love to model and code beautiful things, and am therefore always looking for new
                     challenges.
                     <br><br>
-                    If you want to ...., feel free to contact me!
+                    If you are interested in collaborating or have any inquiries regarding Data Science/Engineering or Machine Learning, please do not hesitate to contact me.
                 </p>
             </div>
         </div>
@@ -128,14 +128,15 @@ if (isset($_POST['submit'])) {
 
 </header>
 
-<!-- Projects-->
+<!-- Projects
+
 <section class="projects-section bg-main project-heading" id="projects">
     <div class="container box_underline">
         <h2 class="heading_work">WHAT I DO BEST</h2>
     </div>
 </section>
 
-<!--
+<--
 <section class="projects-section bg-main project-heading" id="projects">
     <div class="container box_underline">
         <h2 class="heading_work">TESTIMONIALS</h2>
@@ -344,29 +345,29 @@ if (isset($_POST['submit'])) {
             <div class="contact-details">
 
                 <ul class="contact-list">
-                    <i class=""></i>
-                    <li>
-                        <i class="fab fa-github favicon_contact"></i>
-                        <a target="_blank" style="color: rgb(47, 59, 76)" href="https://github.com/dominik-pichler">
-                            Github: @dominik-pichler
+                    <li style="color: rgb(47, 59, 76">
+                        <i class="fab fa-github favicon_contact" ></i>
+                        <a target="_blank" style="color: rgb(47, 59, 76)" href="https://github.com/dominik-pichler">@dominik-pichler
                         </a>
                     </li>
-                    <li>
+                    <li style="color: rgb(47, 59, 76">
                         <i class="fab fa-linkedin-in favicon_contact">
                         </i>
                         <a target="_blank" style="color: rgb(47, 59, 76)"
-                           href="https://linkedin.com/in/dominik-pichler-811827135/">LinkedIn: Dominik Pichler
+                           href="https://linkedin.com/in/dominik-pichler-811827135/">Dominik Pichler
                         </a>
                     </li>
-                    <li>
-                        <i class="fab fa-linkedin-in favicon_contact">
+                    <li style="color: rgb(47, 59, 76">
+                        <i class="fas fa-envelope favicon_contact">
                         </i>
                         <a target="_blank" style="color: rgb(47, 59, 76)"
                            href="mailto:info@dominik-pichler.com">
-                            <bold style="font-weight: bold;"> Mail:</bold>
+                            <bold style="font-weight: bold;">
                             info[at]dominik-pichler[dot]com
                         </a>
                     </li>
+                    <li style="color: rgb(47, 59, 76)" ><i class="fas fa-map-marker-alt favicon_contact"></i>   1140 Vienna / 4020 Linz - Austria</li>
+
 
                 </ul>
 
